@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 hi welcome to git series 
-=======
+
 hi welcome welcome
->>>>>>> b510a09c5aa791378f8e34dd6726bd5b18060454
+lets get started...
